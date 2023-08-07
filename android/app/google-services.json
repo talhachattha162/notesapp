@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557362039172",
+    "project_id": "notesapp-5cfa5",
+    "storage_bucket": "notesapp-5cfa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557362039172:android:f717887444dee2236cb5d1",
+        "android_client_info": {
+          "package_name": "chattha.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557362039172-7vhomgcj0okb105b5vl8eat30g21vt2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1uFkj0Suagms8tvUWTkMu0_K-ZIEPy8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557362039172-7vhomgcj0okb105b5vl8eat30g21vt2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
